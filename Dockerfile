@@ -1,4 +1,4 @@
-FROM node:carbon-alpine
+FROM node:alpine
 LABEL maintainer "ddffx <debabrata.das@gmail.com>"
 
 ENV REFRESHED_AT 2017-11-16
